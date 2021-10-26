@@ -9,6 +9,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Click [here](https://react-todo-44d29.firebaseapp.com/) to see it in action.
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
